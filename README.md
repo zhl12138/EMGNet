@@ -1,0 +1,2 @@
+# EMGNet
+deep learning model 
